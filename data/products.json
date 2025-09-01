@@ -1,0 +1,36 @@
+[
+  {
+    "category": "Motor",
+    "brand": "Torqeedo",
+    "name": "Cruise 10.0",
+    "voltage": 48,
+    "power_kw": 10,
+    "notes": "Geschikt voor schepen tot 10 ton, geïntegreerde GPS.",
+    "links": [
+      { "label": "Website", "url": "https://www.torqeedo.com/en-us/products/outboards/cruise-10.0/1234" },
+      { "label": "Datasheet", "url": "https://example.com/datasheet-cruise-10.0.pdf" }
+    ]
+  },
+  {
+    "category": "Accu",
+    "brand": "Mastervolt",
+    "name": "Mli Ultra 12/5000",
+    "voltage": 12,
+    "power_kw": 5,
+    "notes": "LiFePO4 accu met geïntegreerd BMS, 5000 Wh.",
+    "links": [
+      { "label": "Website", "url": "https://www.mastervolt.com/products/mli-ultra-125000/" }
+    ]
+  },
+  {
+    "category": "Lader",
+    "brand": "Victron",
+    "name": "Blue Smart IP67 24/12",
+    "voltage": 24,
+    "power_kw": 0.35,
+    "notes": "Waterdichte lader geschikt voor LiFePO4 en loodzuur.",
+    "links": [
+      { "label": "Website", "url": "https://www.victronenergy.com/chargers/blue-smart-ip67" }
+    ]
+  }
+]
